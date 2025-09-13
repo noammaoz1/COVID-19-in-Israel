@@ -13,6 +13,6 @@ For the analysis, the original dataset was split into **3 separate datasets**: `
 
 
 ### Dashboard
-<a href="https://public.tableau.com/views/YourDashboardName/Sheet1" target="_blank">
+<a href="https://public.tableau.com/views/Covid-19Dashboard_17577858158690/CovidDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" target="_blank">
   <img width="1799" height="1118" alt="Image" src="https://github.com/user-attachments/assets/c4f86a32-7cff-4d3c-b15f-0816a153cec4">
 </a>
