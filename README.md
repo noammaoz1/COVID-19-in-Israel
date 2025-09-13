@@ -12,7 +12,7 @@ For the analysis, the original dataset was split into **3 separate datasets**: `
 - **Tableau** - for data visualisation - View [Dashboard](https://public.tableau.com/views/Covid-19Dashboard_17577858158690/CovidDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ### Insights
-The [Insights file]() summarizes the main findings.
+The [Insights file](https://github.com/noammaoz1/COVID-19-in-Israel/blob/main/INSIGHTS.md) summarizes the main findings.
 
 ### Dashboard
 <a href="https://public.tableau.com/views/Covid-19Dashboard_17577858158690/CovidDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" target="_blank">
