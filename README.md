@@ -11,6 +11,8 @@ For the analysis, the original dataset was split into **3 separate datasets**: `
 - **Microsoft SQL Server** for data analysis - View [SQL script](https://github.com/noammaoz1/COVID-19-in-Israel/blob/main/Covid-19.sql).
 - **Tableau** - for data visualisation - View [Dashboard](https://public.tableau.com/views/Covid-19Dashboard_17577858158690/CovidDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
+### Insights
+The [Insights file]() summarizes the main findings.
 
 ### Dashboard
 <a href="https://public.tableau.com/views/Covid-19Dashboard_17577858158690/CovidDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" target="_blank">
