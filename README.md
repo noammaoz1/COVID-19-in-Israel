@@ -13,3 +13,4 @@ For the analysis, the original dataset was split into **3 separate datasets**: `
 
 
 ### Dashboard
+<kbd><img width="1799" height="1118" alt="Image" src="https://github.com/user-attachments/assets/c4f86a32-7cff-4d3c-b15f-0816a153cec4">/kbd>
